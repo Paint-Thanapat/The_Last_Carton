@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 9f8c2dcd48bc92447b6907d2a67afca9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4877404711591122869
+    second: Workd2_BP_Forest1_0
+  - first:
+      213: -8728298697080642287
+    second: Workd2_BP_Forest1_1
+  - first:
+      213: -353029243436241731
+    second: Workd2_BP_Forest1_2
+  - first:
+      213: 1177957634318499530
+    second: Workd2_BP_Forest1_3
+  - first:
+      213: 1248769880863181446
+    second: Workd2_BP_Forest1_4
+  - first:
+      213: -5907464084347742407
+    second: Workd2_BP_Forest1_5
+  - first:
+      213: -474836102588626337
+    second: Workd2_BP_Forest1_6
+  - first:
+      213: 5534225631295281965
+    second: Workd2_BP_Forest1_7
+  - first:
+      213: 2288301407782863167
+    second: Workd2_BP_Forest1_8
+  - first:
+      213: 1499294588065898256
+    second: Workd2_BP_Forest1_9
+  - first:
+      213: -4035478976037807870
+    second: Workd2_BP_Forest1_10
+  - first:
+      213: 1709250026340151124
+    second: Workd2_BP_Forest1_11
+  - first:
+      213: 8499148992375144157
+    second: Workd2_BP_Forest1_12
+  - first:
+      213: -7570547513035609047
+    second: Workd2_BP_Forest1_13
+  - first:
+      213: 4301072583370483905
+    second: Workd2_BP_Forest1_14
+  - first:
+      213: -1568792753989288034
+    second: Workd2_BP_Forest1_15
+  - first:
+      213: -8386671218041044557
+    second: Workd2_BP_Forest1_16
+  - first:
+      213: -5690594800653347810
+    second: Workd2_BP_Forest1_17
+  - first:
+      213: 5221510857199993657
+    second: Workd2_BP_Forest1_18
+  - first:
+      213: -2376796411547251385
+    second: Workd2_BP_Forest1_19
+  - first:
+      213: 4645818575748256051
+    second: Workd2_BP_Forest1_20
+  - first:
+      213: 300376863841347651
+    second: Workd2_BP_Forest1_21
+  - first:
+      213: 8791475067172543598
+    second: Workd2_BP_Forest1_22
+  - first:
+      213: 2131130864473429787
+    second: Workd2_BP_Forest1_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 99
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_0
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 638
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7943c5eb500b340800000000000000
+      internalID: 4877404711591122869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 638
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115e00b549aded680800000000000000
+      internalID: -8728298697080642287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 638
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc68a506c9c91bf0800000000000000
+      internalID: -353029243436241731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 638
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace73023a32f85010800000000000000
+      internalID: 1177957634318499530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_4
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 638
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a8e032795845110800000000000000
+      internalID: 1248769880863181446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_5
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 638
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9371311e6b8740ea0800000000000000
+      internalID: -5907464084347742407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 199
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8caa941b0969f0800000000000000
+      internalID: -474836102588626337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 418
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b973cd3e48dcc40800000000000000
+      internalID: 5534225631295281965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 418
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f318ce5a10ea1cf10800000000000000
+      internalID: 2288301407782863167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 418
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f5557fb709ec410800000000000000
+      internalID: 1499294588065898256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_10
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 418
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20995be80491ff7c0800000000000000
+      internalID: -4035478976037807870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_11
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 418
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe45cc7d978b710800000000000000
+      internalID: 1709250026340151124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_12
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 418
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb3a76afa03f570800000000000000
+      internalID: 8499148992375144157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_13
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 418
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cab4ab52300f690800000000000000
+      internalID: -7570547513035609047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 212
+        width: 151
+        height: 198
+      alignment: 9
+      pivot: {x: 0.33774835, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c828fcf9ba70bb30800000000000000
+      internalID: 4301072583370483905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 215
+        width: 200
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ff2445d478a3ae0800000000000000
+      internalID: -1568792753989288034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 215
+        width: 200
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1cba036fe8c9b80800000000000000
+      internalID: -8386671218041044557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_17
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 210
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145f5acd22f601b0800000000000000
+      internalID: -5690594800653347810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_18
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 213
+        width: 200
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49238577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933404ab578867840800000000000000
+      internalID: 5221510857199993657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_19
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 212
+        width: 200
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4949495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d8d4aa14ce30fd0800000000000000
+      internalID: -2376796411547251385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_20
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 212
+        width: 152
+        height: 198
+      alignment: 9
+      pivot: {x: 0.65789473, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d26a4163497040800000000000000
+      internalID: 4645818575748256051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 178
+        height: 200
+      alignment: 9
+      pivot: {x: 0.43820226, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348620c8a272b2400800000000000000
+      internalID: 300376863841347651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd58e8ef7910a70800000000000000
+      internalID: 8791475067172543598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workd2_BP_Forest1_23
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 0
+        width: 178
+        height: 200
+      alignment: 9
+      pivot: {x: 0.56179774, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b175fc2ea3c439d10800000000000000
+      internalID: 2131130864473429787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

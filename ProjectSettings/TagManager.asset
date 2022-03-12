@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rope
+  - Ground
+  - Block
+  - Wall
+  - EnemySeePlayer
+  - CheckRotation
+  - Enemy
+  - Bullet
+  - Heart
+  - Spite
+  - Key
+  - RopeW2
+  - Ladder
+  - LadderW2
+  - Boss1
+  - AimPlayer
+  - BossSpell
+  - Block12
+  - Potion1
+  - BG
+  - CheckPoint
+  - PFworld1
+  - RockBall
+  - Blockw2
+  - EndScene
+  - OutScene
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor01
+  - Floor02
+  - Floor03
+  - SpellBullet
+  - Player
+  - canTrigger
+  - BossSpell
+  - Boss
+  - PlayerClimbing
+  - Enemy
+  - RockBall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround3
+    uniqueID: 32283199
+    locked: 0
+  - name: BackGround2
+    uniqueID: 1860459271
+    locked: 0
+  - name: BackGround1
+    uniqueID: 209617779
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 1068021139
+    locked: 0
+  - name: Block
+    uniqueID: 266986211
+    locked: 0
+  - name: Player
+    uniqueID: 182362285
+    locked: 0
+  - name: Camera
+    uniqueID: 2340881199
+    locked: 0

@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: ad0f5a245086853448be01f40e8f97b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7137837792364390195
+    second: BP_Cave1_0
+  - first:
+      213: 7602027075804756319
+    second: BP_Cave1_1
+  - first:
+      213: -4057182515743856919
+    second: BP_Cave1_2
+  - first:
+      213: 6579571024637437645
+    second: BP_Cave1_3
+  - first:
+      213: -4374224690136727976
+    second: BP_Cave1_4
+  - first:
+      213: 9046101453374532169
+    second: BP_Cave1_5
+  - first:
+      213: 3059031913770186979
+    second: BP_Cave1_6
+  - first:
+      213: -5852590223060122275
+    second: BP_Cave1_7
+  - first:
+      213: 5836697302587448328
+    second: BP_Cave1_8
+  - first:
+      213: 2458283029691027344
+    second: BP_Cave1_9
+  - first:
+      213: -8505464945415933764
+    second: BP_Cave1_10
+  - first:
+      213: 3223164565354631640
+    second: BP_Cave1_11
+  - first:
+      213: -5859140180539455016
+    second: BP_Cave1_12
+  - first:
+      213: -3944772251845762557
+    second: BP_Cave1_13
+  - first:
+      213: 3384460906359209825
+    second: BP_Cave1_14
+  - first:
+      213: -2696347424523613418
+    second: BP_Cave1_15
+  - first:
+      213: -1114860296366993379
+    second: BP_Cave1_16
+  - first:
+      213: -4405189816396189760
+    second: BP_Cave1_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BP_Cave1_0
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 708
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337ec3e77a1be0360800000000000000
+      internalID: 7137837792364390195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 708
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f597e322953df7960800000000000000
+      internalID: 7602027075804756319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 708
+        width: 220
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e669207ffdf1b7c0800000000000000
+      internalID: -4057182515743856919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 708
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a7f1acf45f4b50800000000000000
+      internalID: 6579571024637437645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_4
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 708
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e38a8e1d1ab43c0800000000000000
+      internalID: -4374224690136727976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_5
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 708
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa882f7553a8d70800000000000000
+      internalID: 9046101453374532169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8fad0715dd37a20800000000000000
+      internalID: 3059031913770186979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 467
+        width: 219
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55c392533c67cea0800000000000000
+      internalID: -5852590223060122275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_8
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 467
+        width: 219
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c9436c54d100150800000000000000
+      internalID: 5836697302587448328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 467
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fca1614639d1220800000000000000
+      internalID: 2458283029691027344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_10
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 468
+        width: 219
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb032fe22b486f980800000000000000
+      internalID: -8505464945415933764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_11
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 467
+        width: 219
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d69a581bfabc20800000000000000
+      internalID: 3223164565354631640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_12
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 468
+        width: 219
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d94ab18c0720bea0800000000000000
+      internalID: -5859140180539455016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_13
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 467
+        width: 219
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3026ae8898a5149c0800000000000000
+      internalID: -3944772251845762557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 228
+        width: 167
+        height: 218
+      alignment: 9
+      pivot: {x: 0.3443114, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fbcbf334508fe20800000000000000
+      internalID: 3384460906359209825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 228
+        width: 166
+        height: 218
+      alignment: 9
+      pivot: {x: 0.6596386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b0b32ad46a49ad0800000000000000
+      internalID: -2696347424523613418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 196
+        height: 219
+      alignment: 9
+      pivot: {x: 0.44132653, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10dbdc97783780f0800000000000000
+      internalID: -1114860296366993379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP_Cave1_17
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 195
+        height: 219
+      alignment: 9
+      pivot: {x: 0.56153846, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6981a33f9dd2c0800000000000000
+      internalID: -4405189816396189760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
